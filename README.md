@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachana0706/rachana0706/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachana0706/rachana0706/main/light.svg">
+  <img alt="Rachana" src="https://raw.githubusercontent.com/rachana0706/rachana0706/main/light.svg">
+</picture>
+</div>
 
 <!--
 **rachana0706/rachana0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
