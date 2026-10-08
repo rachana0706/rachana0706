@@ -21,6 +21,17 @@
       src="https://raw.githubusercontent.com/rachana0706/rachana0706/output/github-snake.svg" />
   </picture>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rachana-acharya-649034363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Instagram-Not%20linked%20yet-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram — Not linked yet" />
+  &nbsp;&nbsp;
+  <a href="mailto:rachana7achar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+</div>
 <!--
 **rachana0706/rachana0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
